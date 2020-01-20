@@ -1,3 +1,8 @@
-C:\SpringGuru\spring5webapp\src\main\java\guru\springframework\spring5webapp\model\Author.java
-C:\SpringGuru\spring5webapp\src\main\java\guru\springframework\spring5webapp\model\Book.java
-C:\SpringGuru\spring5webapp\src\main\java\guru\springframework\spring5webapp\Spring5webappApplication.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\model\Author.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\Spring5webappApplication.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\repositories\BookRepository.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\model\Publisher.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\model\Book.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\bootstrap\DevBootstrap.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\repositories\PublisherRepository.java
+C:\SpringGuru\git\spring5webapp\src\main\java\guru\springframework\spring5webapp\repositories\AuthorRepository.java
